@@ -1,7 +1,7 @@
 <html>
 <head>
-</head>
 <body>
 <title Hello world />
+</head>
 </body>
 </html>
